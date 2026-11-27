@@ -1,0 +1,18 @@
+NovaLink V1 - isolated ESP32-C3 interface for Micronova pellet stoves
+Copyright (c) 2026 Benjamin Tollet
+
+This work (hardware design files, enclosure and documentation) is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to share and adapt this work, under the following terms:
+  - Attribution: give appropriate credit and a link to https://github.com/benbox69/novalink,
+    and indicate if changes were made.
+  - NonCommercial: you may not use the material for commercial purposes (including selling
+    boards, kits or enclosures made from it).
+  - ShareAlike: if you remix, transform or build upon the material, you must distribute your
+    contributions under the same license.
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The work is provided "as is", without warranty of any kind. Connecting it to a stove is at your own risk.
+Third-party parts (KiCad standard libraries, manufacturer footprints and datasheets) keep their own licenses.

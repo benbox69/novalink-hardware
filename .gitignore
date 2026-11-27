@@ -1,0 +1,23 @@
+*.bak
+*-backups/
+*.kicad_prl
+fp-info-cache
+\#auto_saved_files#
+.DS_Store
+*.lck
+build/
+production/backups/
+**/production/backups/
+enclosure/NovaLink_Enclosure/.vscode/
+# SuperMini 3D model: not published (CC0, download it from Printables, see README)
+libs/3d/*.step
+# Generated files containing local paths
+docs/NovaLink.net
+/erc.rpt
+/drc.rpt
+# Tools used to create the design (kept locally, not published)
+scripts/
+production/designators.csv
+production/netlist.ipc
+docs/pcb_cuivre_*.png
+enclosure/NovaLink_Enclosure/

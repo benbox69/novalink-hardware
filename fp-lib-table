@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "NovaLink")(type "KiCad")(uri "${KIPRJMOD}/libs/NovaLink.pretty")(options "")(descr "NovaLink project footprints"))
+)
